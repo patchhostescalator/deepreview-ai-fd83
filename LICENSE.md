@@ -1,4 +1,4 @@
-# 
+# Open Source DeepReview script. Download and install with batch-processing and cross-platform-support — fast, secure, and easy to use.
 
 
 
